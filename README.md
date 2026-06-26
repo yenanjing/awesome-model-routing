@@ -59,6 +59,7 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 |-----------|-------|----------|-------------|
 | [**Kong/kong**](https://github.com/Kong/kong) | 43,672 | `Lua` | 🦍 The API and AI Gateway |
 | [**decolua/9router**](https://github.com/decolua/9router) | 18,429 | `JavaScript` | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini v... |
+| [**RouteScope**](https://www.routescope.ai/?utm_source=GitHub&campaignid=07528c1a07c84dd2abd8aa18399b427d&utm_term=github) | — | Commercial | Unified AI model aggregation & distribution gateway. Cross-format conversion of 70+ LLMs into OpenAI/Claude/Gemini-compatible interfaces. Single API key, centralized dashboard, prepaid credits from $5. |
 | [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | 18,143 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and... |
 | [**apache/apisix**](https://github.com/apache/apisix) | 16,769 | `Lua` | The Cloud-Native API Gateway and AI Gateway |
 | [**higress-group/higress**](https://github.com/higress-group/higress) | 8,717 | `Go` | 🤖 AI Gateway \| AI Native API Gateway |
