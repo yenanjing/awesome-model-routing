@@ -4,7 +4,7 @@
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
   ![GitHub stars](https://img.shields.io/github/stars/yenanjing/awesome-model-routing?style=flat-square)
-  ![Last Updated](https://img.shields.io/badge/last%20updated-2026-08-05-blue?style=flat-square)
+  ![Last Updated](https://img.shields.io/badge/last%20updated-2026-08-06-blue?style=flat-square)
 
   <p>Collected <strong>91</strong> repositories with <strong>1,000+</strong> stars across <strong>8</strong> categories.</p>
 </div>
@@ -34,7 +34,7 @@ Model routing is a critical infrastructure pattern for modern AI applications. I
 This list covers the full spectrum: from smart routers that choose the optimal model per request, to high-performance inference engines, to unified gateways that provide a single endpoint for 100+ LLM APIs.
 
 > **Criteria**: Repositories with 1,000+ stars, actively maintained, related to model routing.
-> Last updated: 2026-08-05
+> Last updated: 2026-08-06
 
 ---
 
@@ -44,12 +44,12 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**tashfeenahmed/freellmapi**](https://github.com/tashfeenahmed/freellmapi) | 17,757 | `TypeScript` | OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — p... |
-| [**justlovemaki/AIClient2API**](https://github.com/justlovemaki/AIClient2API) | 8,587 | `JavaScript` | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Sup... |
-| [**mnfst/manifest**](https://github.com/mnfst/manifest) | 7,399 | `TypeScript` | Connect Your Agents And Harnesses With Any Provider 🦚 |
+| [**tashfeenahmed/freellmapi**](https://github.com/tashfeenahmed/freellmapi) | 17,849 | `TypeScript` | OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — p... |
+| [**justlovemaki/AIClient2API**](https://github.com/justlovemaki/AIClient2API) | 8,594 | `JavaScript` | Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Sup... |
+| [**mnfst/manifest**](https://github.com/mnfst/manifest) | 7,406 | `TypeScript` | Connect Your Agents And Harnesses With Any Provider 🦚 |
 | [**BlockRunAI/ClawRouter**](https://github.com/BlockRunAI/ClawRouter) | 6,683 | `TypeScript` | The agent-native LLM router for autonomous agents. 66 models (8 free), <1ms local routing, USDC payments on Base & So... |
-| [**lm-sys/RouteLLM**](https://github.com/lm-sys/RouteLLM) | 5,305 | `Python` | A framework for serving and evaluating LLM routers - save LLM costs without compromising quality |
-| [**ENTERPILOT/GoModel**](https://github.com/ENTERPILOT/GoModel) | 1,039 | `Go` | AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for Op... |
+| [**lm-sys/RouteLLM**](https://github.com/lm-sys/RouteLLM) | 5,309 | `Python` | A framework for serving and evaluating LLM routers - save LLM costs without compromising quality |
+| [**ENTERPILOT/GoModel**](https://github.com/ENTERPILOT/GoModel) | 1,041 | `Go` | AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for Op... |
 
 ---
 
@@ -59,55 +59,55 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | 55,603 | `Python` | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost ... |
-| [**Kong/kong**](https://github.com/Kong/kong) | 43,921 | `Lua` | 🦍 The API and AI Gateway |
-| [**diegosouzapw/OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 40,179 | `TypeScript` | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, Ope... |
-| [**decolua/9router**](https://github.com/decolua/9router) | 24,703 | `JavaScript` | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini v... |
-| [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | 19,634 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and... |
-| [**zhaoxuya520/reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 18,725 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-de... |
-| [**apache/apisix**](https://github.com/apache/apisix) | 16,959 | `Lua` | The Cloud-Native API Gateway and AI Gateway |
-| [**higress-group/higress**](https://github.com/higress-group/higress) | 9,028 | `Go` | 🤖 AI Gateway \| AI Native API Gateway |
-| [**maximhq/bifrost**](https://github.com/maximhq/bifrost) | 7,065 | `Go` | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ ... |
-| [**kgateway-dev/kgateway**](https://github.com/kgateway-dev/kgateway) | 5,649 | `Go` | The Cloud-Native API Gateway and AI Gateway |
-| [**looplj/axonhub**](https://github.com/looplj/axonhub) | 4,882 | `Go` | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-e... |
-| [**NateBJones-Projects/OB1**](https://github.com/NateBJones-Projects/OB1) | 4,392 | `TypeScript` | Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plug... |
-| [**oomol-lab/open-connector**](https://github.com/oomol-lab/open-connector) | 4,300 | `TypeScript` | Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. |
-| [**agentgateway/agentgateway**](https://github.com/agentgateway/agentgateway) | 4,227 | `Rust` | Next Generation Agentic Proxy for AI Agents and MCP servers |
-| [**octelium/octelium**](https://github.com/octelium/octelium) | 3,966 | `Go` | A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA... |
-| [**nextlevelbuilder/goclaw**](https://github.com/nextlevelbuilder/goclaw) | 3,507 | `Go` | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. De... |
-| [**raullenchai/Rapid-MLX**](https://github.com/raullenchai/Rapid-MLX) | 3,401 | `Python` | The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool... |
-| [**cirosantilli/china-dictatorship**](https://github.com/cirosantilli/china-dictatorship) | 3,133 | `HTML` | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法... |
-| [**motiful/cc-gateway**](https://github.com/motiful/cc-gateway) | 2,993 | `TypeScript` | AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API ... |
-| [**onecli/onecli**](https://github.com/onecli/onecli) | 2,989 | `TypeScript` | Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys. |
-| [**butterbase-ai/butterbase**](https://github.com/butterbase-ai/butterbase) | 2,895 | `TypeScript` | Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP. |
-| [**supercorp-ai/supergateway**](https://github.com/supercorp-ai/supergateway) | 2,797 | `TypeScript` | Run MCP stdio servers over SSE and SSE over stdio. AI gateway. |
+| [**BerriAI/litellm**](https://github.com/BerriAI/litellm) | 55,701 | `Python` | The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost ... |
+| [**Kong/kong**](https://github.com/Kong/kong) | 43,932 | `Lua` | 🦍 The API and AI Gateway |
+| [**diegosouzapw/OmniRoute**](https://github.com/diegosouzapw/OmniRoute) | 41,211 | `TypeScript` | Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, Ope... |
+| [**decolua/9router**](https://github.com/decolua/9router) | 24,787 | `JavaScript` | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini v... |
+| [**mksglu/context-mode**](https://github.com/mksglu/context-mode) | 19,658 | `TypeScript` | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and... |
+| [**zhaoxuya520/reverse-skill**](https://github.com/zhaoxuya520/reverse-skill) | 19,493 | `PowerShell` | Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-de... |
+| [**apache/apisix**](https://github.com/apache/apisix) | 16,960 | `Lua` | The Cloud-Native API Gateway and AI Gateway |
+| [**higress-group/higress**](https://github.com/higress-group/higress) | 9,035 | `Go` | 🤖 AI Gateway \| AI Native API Gateway |
+| [**maximhq/bifrost**](https://github.com/maximhq/bifrost) | 7,096 | `Go` | Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ ... |
+| [**kgateway-dev/kgateway**](https://github.com/kgateway-dev/kgateway) | 5,650 | `Go` | The Cloud-Native API Gateway and AI Gateway |
+| [**looplj/axonhub**](https://github.com/looplj/axonhub) | 4,900 | `Go` | ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-e... |
+| [**NateBJones-Projects/OB1**](https://github.com/NateBJones-Projects/OB1) | 4,399 | `TypeScript` | Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plug... |
+| [**oomol-lab/open-connector**](https://github.com/oomol-lab/open-connector) | 4,350 | `TypeScript` | Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI. |
+| [**agentgateway/agentgateway**](https://github.com/agentgateway/agentgateway) | 4,238 | `Rust` | Next Generation Agentic Proxy for AI Agents and MCP servers |
+| [**octelium/octelium**](https://github.com/octelium/octelium) | 3,968 | `Go` | A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA... |
+| [**nextlevelbuilder/goclaw**](https://github.com/nextlevelbuilder/goclaw) | 3,513 | `Go` | GoClaw - GoClaw is OpenClaw rebuilt in Go — with multi-tenant isolation, 5-layer security, and native concurrency. De... |
+| [**raullenchai/Rapid-MLX**](https://github.com/raullenchai/Rapid-MLX) | 3,407 | `Python` | The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool... |
+| [**cirosantilli/china-dictatorship**](https://github.com/cirosantilli/china-dictatorship) | 3,134 | `HTML` | 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病毒审查郝海东新疆改造中心六四事件法... |
+| [**onecli/onecli**](https://github.com/onecli/onecli) | 3,000 | `TypeScript` | Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys. |
+| [**motiful/cc-gateway**](https://github.com/motiful/cc-gateway) | 2,992 | `TypeScript` | AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API ... |
+| [**butterbase-ai/butterbase**](https://github.com/butterbase-ai/butterbase) | 2,918 | `TypeScript` | Open-source backend-as-a-service. Postgres, auth, storage, functions, AI gateway, MCP. |
+| [**supercorp-ai/supergateway**](https://github.com/supercorp-ai/supergateway) | 2,800 | `TypeScript` | Run MCP stdio servers over SSE and SSE over stdio. AI gateway. |
 | [**kaitranntt/ccs**](https://github.com/kaitranntt/ccs) | 2,783 | `TypeScript` | Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboa... |
-| [**krakend/krakend-ce**](https://github.com/krakend/krakend-ce) | 2,663 | `Go` | KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go. |
+| [**krakend/krakend-ce**](https://github.com/krakend/krakend-ce) | 2,662 | `Go` | KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go. |
+| [**AgnesAI-Labs/AgnesAI-Models**](https://github.com/AgnesAI-Labs/AgnesAI-Models) | 2,539 | `N/A` | Official Agnes AI gateway and model catalog for OpenAI-compatible text, image, video, and agent workflows. |
 | [**techa03/goodsKill**](https://github.com/techa03/goodsKill) | 2,414 | `Java` | 🐎基于SpringCloud 2025.x + Dubbo 3.x + AI构建的模拟秒杀微服务项目，集成了Elasticsearch🔍、Gateway、Mybatis-Plus、Sharding-JDBC等常用开源组件 |
-| [**AgnesAI-Labs/AgnesAI-Models**](https://github.com/AgnesAI-Labs/AgnesAI-Models) | 2,404 | `N/A` | Official Agnes AI gateway and model catalog for OpenAI-compatible text, image, video, and agent workflows. |
-| [**bestruirui/octopus**](https://github.com/bestruirui/octopus) | 2,338 | `TypeScript` | One Hub All LLMs For You \| 为个人打造的 LLM API 聚合网关 |
-| [**ulab-uiuc/LLMRouter**](https://github.com/ulab-uiuc/LLMRouter) | 2,204 | `Python` | LLMRouter: An Open-Source Library for LLM Routing |
-| [**open-compress/claw-compactor**](https://github.com/open-compress/claw-compactor) | 2,195 | `Python` | 14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent con... |
-| [**crshdn/mission-control**](https://github.com/crshdn/mission-control) | 2,121 | `TypeScript` | The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code a... |
-| [**martin-ger/esp32_nat_router**](https://github.com/martin-ger/esp32_nat_router) | 2,077 | `C` | An AI-enabled NAT Router/Firewall for the ESP32 |
-| [**gege-circle/.github**](https://github.com/gege-circle/.github) | 1,962 | `N/A` | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place fo... |
-| [**envoyproxy/ai-gateway**](https://github.com/envoyproxy/ai-gateway) | 1,900 | `Go` | Manages Unified Access to Generative AI Services built on Envoy Gateway |
-| [**APIParkLab/APIPark**](https://github.com/APIParkLab/APIPark) | 1,794 | `TypeScript` | Cloud native, ultra-high performance AI&API gateway, LLM API management, distribution system, open platform, supporti... |
-| [**vercel-labs/coding-agent-template**](https://github.com/vercel-labs/coding-agent-template) | 1,755 | `TypeScript` | Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway |
-| [**TimefoldAI/timefold-solver**](https://github.com/TimefoldAI/timefold-solver) | 1,741 | `Java` | The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, ... |
-| [**Safe3/uusec-waf**](https://github.com/Safe3/uusec-waf) | 1,696 | `Shell` | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway... |
+| [**bestruirui/octopus**](https://github.com/bestruirui/octopus) | 2,340 | `TypeScript` | One Hub All LLMs For You \| 为个人打造的 LLM API 聚合网关 |
+| [**ulab-uiuc/LLMRouter**](https://github.com/ulab-uiuc/LLMRouter) | 2,208 | `Python` | LLMRouter: An Open-Source Library for LLM Routing |
+| [**open-compress/claw-compactor**](https://github.com/open-compress/claw-compactor) | 2,196 | `Python` | 14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent con... |
+| [**crshdn/mission-control**](https://github.com/crshdn/mission-control) | 2,123 | `TypeScript` | The world's first Autonomous Product Engine (APE): AI agents research your market, generate features, and ship code a... |
+| [**martin-ger/esp32_nat_router**](https://github.com/martin-ger/esp32_nat_router) | 2,078 | `C` | An AI-enabled NAT Router/Firewall for the ESP32 |
+| [**gege-circle/.github**](https://github.com/gege-circle/.github) | 1,964 | `N/A` | 这里是GitHub的草场，也是戈戈圈爱好者的交流地，主要讨论动漫、游戏、科技、人文、生活等所有话题，欢迎各位小伙伴们在此讨论趣事。This is GitHub grassland, and the community place fo... |
+| [**envoyproxy/ai-gateway**](https://github.com/envoyproxy/ai-gateway) | 1,906 | `Go` | Manages Unified Access to Generative AI Services built on Envoy Gateway |
+| [**APIParkLab/APIPark**](https://github.com/APIParkLab/APIPark) | 1,795 | `TypeScript` | Cloud native, ultra-high performance AI&API gateway, LLM API management, distribution system, open platform, supporti... |
+| [**vercel-labs/coding-agent-template**](https://github.com/vercel-labs/coding-agent-template) | 1,757 | `TypeScript` | Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway |
+| [**TimefoldAI/timefold-solver**](https://github.com/TimefoldAI/timefold-solver) | 1,743 | `Java` | The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, ... |
+| [**Safe3/uusec-waf**](https://github.com/Safe3/uusec-waf) | 1,698 | `Shell` | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway... |
 | [**awtkns/fastapi-crudrouter**](https://github.com/awtkns/fastapi-crudrouter) | 1,695 | `Python` | A dynamic FastAPI router that automatically creates CRUD routes for your models |
-| [**mithun50/openclaw-termux**](https://github.com/mithun50/openclaw-termux) | 1,666 | `Dart` | Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, and one-tap setup.... |
-| [**future-agi/future-agi**](https://github.com/future-agi/future-agi) | 1,595 | `Python` | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Ev... |
-| [**theopenco/llmgateway**](https://github.com/theopenco/llmgateway) | 1,502 | `TypeScript` | Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. |
+| [**mithun50/openclaw-termux**](https://github.com/mithun50/openclaw-termux) | 1,668 | `Dart` | Run OpenClaw AI Gateway on Android — standalone Flutter app with built-in terminal, web dashboard, and one-tap setup.... |
+| [**future-agi/future-agi**](https://github.com/future-agi/future-agi) | 1,612 | `Python` | Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Ev... |
+| [**theopenco/llmgateway**](https://github.com/theopenco/llmgateway) | 1,504 | `TypeScript` | Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. |
 | [**wouterkool/attention-learn-to-route**](https://github.com/wouterkool/attention-learn-to-route) | 1,381 | `Jupyter Notebook` | Attention based model for learning to solve different routing problems |
 | [**ntegrals/10x**](https://github.com/ntegrals/10x) | 1,359 | `TypeScript` | ⚡️ 10x - Up to 20x faster AI coding with multi-step Superpowers. Open-source agent with smart model routing, BYOK, fu... |
-| [**kellyvv/PhoneClaw**](https://github.com/kellyvv/PhoneClaw) | 1,196 | `Swift` | PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and option... |
-| [**LiteLLM-Labs/litellm-agent-control-plane**](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) | 1,191 | `Rust` | 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents. |
-| [**modu-ai/moai-adk**](https://github.com/modu-ai/moai-adk) | 1,158 | `Go` | Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing,... |
-| [**DEEIX-AI/DEEIX-Chat**](https://github.com/DEEIX-AI/DEEIX-Chat) | 1,143 | `Go` | An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. |
+| [**kellyvv/PhoneClaw**](https://github.com/kellyvv/PhoneClaw) | 1,198 | `Swift` | PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and option... |
+| [**LiteLLM-Labs/litellm-agent-control-plane**](https://github.com/LiteLLM-Labs/litellm-agent-control-plane) | 1,193 | `Rust` | 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAgents. |
+| [**DEEIX-AI/DEEIX-Chat**](https://github.com/DEEIX-AI/DEEIX-Chat) | 1,184 | `Go` | An enterprise AI workspace for model routing, multimodal chat, files, tools, billing, identity, and operations. |
+| [**modu-ai/moai-adk**](https://github.com/modu-ai/moai-adk) | 1,160 | `Go` | Agentic development harness for Claude Code — SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing,... |
 | [**fsbolero/Bolero**](https://github.com/fsbolero/Bolero) | 1,130 | `F#` | Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloa... |
-| [**LanceZPF/agent-as-a-router**](https://github.com/LanceZPF/agent-as-a-router) | 1,070 | `TypeScript` | The official implementations of Agent-as-a-Router: Agentic Model Routing for Coding Tasks. |
+| [**LanceZPF/agent-as-a-router**](https://github.com/LanceZPF/agent-as-a-router) | 1,076 | `TypeScript` | The official implementations of Agent-as-a-Router: Agentic Model Routing for Coding Tasks. |
 
 ---
 
@@ -117,11 +117,11 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**QuantumNous/new-api**](https://github.com/QuantumNous/new-api) | 44,408 | `Go` | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatib... |
-| [**Portkey-AI/gateway**](https://github.com/Portkey-AI/gateway) | 12,648 | `TypeScript` | A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly ... |
+| [**QuantumNous/new-api**](https://github.com/QuantumNous/new-api) | 44,502 | `Go` | A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatib... |
+| [**Portkey-AI/gateway**](https://github.com/Portkey-AI/gateway) | 12,655 | `TypeScript` | A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly ... |
 | [**coaidev/coai**](https://github.com/coaidev/coai) | 9,273 | `TypeScript` | 🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Grade Unified LLM Gateway Su... |
-| [**lidge-jun/opencodex**](https://github.com/lidge-jun/opencodex) | 7,407 | `TypeScript` | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with ... |
-| [**romgX/openrelay**](https://github.com/romgX/openrelay) | 2,279 | `TypeScript` | 几百个免费 AI 模型配额，一键接入本地项目。\| Hundreds of free AI model quotas, one-click access to local projects. |
+| [**lidge-jun/opencodex**](https://github.com/lidge-jun/opencodex) | 7,913 | `TypeScript` | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with ... |
+| [**romgX/openrelay**](https://github.com/romgX/openrelay) | 2,282 | `TypeScript` | 几百个免费 AI 模型配额，一键接入本地项目。\| Hundreds of free AI model quotas, one-click access to local projects. |
 
 ---
 
@@ -131,19 +131,20 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**ollama/ollama**](https://github.com/ollama/ollama) | 177,829 | `Go` | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [**vllm-project/vllm**](https://github.com/vllm-project/vllm) | 88,246 | `Python` | A high-throughput and memory-efficient inference and serving engine for LLMs |
-| [**sgl-project/sglang**](https://github.com/sgl-project/sglang) | 31,333 | `Python` | SGLang is a high-performance serving framework for large language models and multimodal models. |
-| [**GeeeekExplorer/nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm) | 14,830 | `Python` | Nano vLLM |
-| [**NVIDIA/TensorRT-LLM**](https://github.com/NVIDIA/TensorRT-LLM) | 14,302 | `Python` | TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-... |
-| [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) | 5,865 | `Python` | A framework for efficient model inference with omni-modality models |
-| [**vllm-project/semantic-router**](https://github.com/vllm-project/semantic-router) | 5,119 | `Go` | A programmable Mixture-of-Models router for heterogeneous LLM inference |
-| [**vllm-project/aibrix**](https://github.com/vllm-project/aibrix) | 4,992 | `Go` | Cost-efficient and pluggable Infrastructure components for GenAI inference |
-| [**sgl-project/mini-sglang**](https://github.com/sgl-project/mini-sglang) | 4,683 | `Python` | A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. |
-| [**vllm-project/vllm-ascend**](https://github.com/vllm-project/vllm-ascend) | 2,566 | `C++` | Community maintained hardware plugin for vLLM on Ascend |
-| [**waybarrios/vllm-mlx**](https://github.com/waybarrios/vllm-mlx) | 1,488 | `Python` | OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA)... |
-| [**vllm-project/guidellm**](https://github.com/vllm-project/guidellm) | 1,470 | `Python` | Evaluate and Enhance Your LLM Deployments for Real-World Inference Needs |
-| [**Ksuriuri/index-tts-vllm**](https://github.com/Ksuriuri/index-tts-vllm) | 1,218 | `Python` | Added vLLM support to IndexTTS for faster inference. |
+| [**ollama/ollama**](https://github.com/ollama/ollama) | 177,899 | `Go` | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| [**vllm-project/vllm**](https://github.com/vllm-project/vllm) | 88,335 | `Python` | A high-throughput and memory-efficient inference and serving engine for LLMs |
+| [**sgl-project/sglang**](https://github.com/sgl-project/sglang) | 31,408 | `Python` | SGLang is a high-performance serving framework for large language models and multimodal models. |
+| [**GeeeekExplorer/nano-vllm**](https://github.com/GeeeekExplorer/nano-vllm) | 14,843 | `Python` | Nano vLLM |
+| [**NVIDIA/TensorRT-LLM**](https://github.com/NVIDIA/TensorRT-LLM) | 14,316 | `Python` | TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-... |
+| [**vllm-project/vllm-omni**](https://github.com/vllm-project/vllm-omni) | 5,899 | `Python` | A framework for efficient model inference with omni-modality models |
+| [**vllm-project/semantic-router**](https://github.com/vllm-project/semantic-router) | 5,120 | `Go` | A programmable Mixture-of-Models router for heterogeneous LLM inference |
+| [**vllm-project/aibrix**](https://github.com/vllm-project/aibrix) | 4,994 | `Go` | Cost-efficient and pluggable Infrastructure components for GenAI inference |
+| [**sgl-project/mini-sglang**](https://github.com/sgl-project/mini-sglang) | 4,693 | `Python` | A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems. |
+| [**vllm-project/vllm-ascend**](https://github.com/vllm-project/vllm-ascend) | 2,573 | `C++` | Community maintained hardware plugin for vLLM on Ascend |
+| [**waybarrios/vllm-mlx**](https://github.com/waybarrios/vllm-mlx) | 1,492 | `Python` | OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama, Qwen-VL, LLaVA)... |
+| [**vllm-project/guidellm**](https://github.com/vllm-project/guidellm) | 1,477 | `Python` | Evaluate and Enhance Your LLM Deployments for Real-World Inference Needs |
+| [**Ksuriuri/index-tts-vllm**](https://github.com/Ksuriuri/index-tts-vllm) | 1,220 | `Python` | Added vLLM support to IndexTTS for faster inference. |
+| [**jmaczan/tiny-vllm**](https://github.com/jmaczan/tiny-vllm) | 1,006 | `C++` | Build your own high performance LLM inference engine in C++ and CUDA - a smaller version of vLLM |
 
 ---
 
@@ -153,17 +154,16 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**musistudio/claude-code-router**](https://github.com/musistudio/claude-code-router) | 36,424 | `TypeScript` | One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay f... |
-| [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) | 26,114 | `Python` | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design mod... |
-| [**neuml/txtai**](https://github.com/neuml/txtai) | 12,797 | `Python` | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
-| [**katanemo/plano**](https://github.com/katanemo/plano) | 6,963 | `Rust` | Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestra... |
-| [**open-multi-agent/open-multi-agent**](https://github.com/open-multi-agent/open-multi-agent) | 6,721 | `TypeScript` | TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator p... |
-| [**rocketride-org/rocketride-server**](https://github.com/rocketride-org/rocketride-server) | 5,648 | `Python` | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM work... |
-| [**IBM/mcp-context-forge**](https://github.com/IBM/mcp-context-forge) | 4,252 | `Python` | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint... |
-| [**abhi1693/openclaw-mission-control**](https://github.com/abhi1693/openclaw-mission-control) | 4,106 | `TypeScript` | AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenC... |
-| [**archestra-ai/archestra**](https://github.com/archestra-ai/archestra) | 4,092 | `TypeScript` | Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator |
+| [**musistudio/claude-code-router**](https://github.com/musistudio/claude-code-router) | 36,446 | `TypeScript` | One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay f... |
+| [**deepset-ai/haystack**](https://github.com/deepset-ai/haystack) | 26,129 | `Python` | Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design mod... |
+| [**neuml/txtai**](https://github.com/neuml/txtai) | 12,802 | `Python` | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
+| [**katanemo/plano**](https://github.com/katanemo/plano) | 6,974 | `Rust` | Plano is an AI-native proxy server and data plane for agentic apps. Smart LLM routing, observability, agent orchestra... |
+| [**open-multi-agent/open-multi-agent**](https://github.com/open-multi-agent/open-multi-agent) | 6,729 | `TypeScript` | TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator p... |
+| [**rocketride-org/rocketride-server**](https://github.com/rocketride-org/rocketride-server) | 5,677 | `Python` | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM work... |
+| [**IBM/mcp-context-forge**](https://github.com/IBM/mcp-context-forge) | 4,270 | `Python` | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint... |
+| [**archestra-ai/archestra**](https://github.com/archestra-ai/archestra) | 4,096 | `TypeScript` | Enterprise AI Platform with guardrails, MCP registry, gateway & orchestrator |
 | [**AI-QL/tuui**](https://github.com/AI-QL/tuui) | 1,153 | `TypeScript` | A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Conte... |
-| [**zhnt/loushang**](https://github.com/zhnt/loushang) | 1,010 | `Python` | AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool govern... |
+| [**zhnt/loushang**](https://github.com/zhnt/loushang) | 1,032 | `Python` | AI-native agent harness for coding workflows by python: multi-model LLM orchestration, stateful sessions, tool govern... |
 
 ---
 
@@ -173,9 +173,9 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**casdoor/casdoor**](https://github.com/casdoor/casdoor) | 14,126 | `Go` | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI ... |
-| [**InsForge/InsForge**](https://github.com/InsForge/InsForge) | 12,651 | `TypeScript` | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, sto... |
-| [**mnfst/awesome-free-llm-apis**](https://github.com/mnfst/awesome-free-llm-apis) | 6,251 | `JavaScript` | List of Permanent Free LLM API  (API Keys) |
+| [**casdoor/casdoor**](https://github.com/casdoor/casdoor) | 14,128 | `Go` | An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI ... |
+| [**InsForge/InsForge**](https://github.com/InsForge/InsForge) | 12,658 | `TypeScript` | The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, sto... |
+| [**mnfst/awesome-free-llm-apis**](https://github.com/mnfst/awesome-free-llm-apis) | 6,272 | `JavaScript` | List of Permanent Free LLM API  (API Keys) |
 
 ---
 
@@ -185,10 +185,10 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
-| [**ascending-llc/jarvis-registry**](https://github.com/ascending-llc/jarvis-registry) | 2,793 | `Python` | Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with... |
-| [**seakee/CPA-Manager-Plus**](https://github.com/seakee/CPA-Manager-Plus) | 2,409 | `TypeScript` | A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, qu... |
+| [**ascending-llc/jarvis-registry**](https://github.com/ascending-llc/jarvis-registry) | 2,833 | `Python` | Connect any AI copilot or autonomous agent to your enterprise tools — through a single, secure MCP/Agent gateway with... |
+| [**seakee/CPA-Manager-Plus**](https://github.com/seakee/CPA-Manager-Plus) | 2,424 | `TypeScript` | A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, qu... |
 | [**jzyong/game-server**](https://github.com/jzyong/game-server) | 1,227 | `Java` | Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, ba... |
-| [**bricks-cloud/BricksLLM**](https://github.com/bricks-cloud/BricksLLM) | 1,222 | `Go` | 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained ac... |
+| [**bricks-cloud/BricksLLM**](https://github.com/bricks-cloud/BricksLLM) | 1,221 | `Go` | 🔒 Enterprise-grade API gateway that helps you monitor and impose cost or rate limits per API key. Get fine-grained ac... |
 
 ---
 
@@ -206,22 +206,22 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 - **Total repositories**: 91
 - **Minimum stars**: 1,000
 - **Languages covered**: C, C++, Dart, F#, Go, HTML, Java, JavaScript, Jupyter Notebook, Lua, PowerShell, Python, Rust, Shell, Swift, TypeScript
-- **Last updated**: 2026-08-05
+- **Last updated**: 2026-08-06
 
 ### Top 10 by Stars
 
 | Rank | Repository | Stars |
 |------|-----------|-------|
-| 1 | [ollama/ollama](https://github.com/ollama/ollama) | 177,829 |
-| 2 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 88,246 |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55,603 |
-| 4 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 44,408 |
-| 5 | [Kong/kong](https://github.com/Kong/kong) | 43,921 |
-| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 40,179 |
-| 7 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 36,424 |
-| 8 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 31,333 |
-| 9 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26,114 |
-| 10 | [decolua/9router](https://github.com/decolua/9router) | 24,703 |
+| 1 | [ollama/ollama](https://github.com/ollama/ollama) | 177,899 |
+| 2 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 88,335 |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 55,701 |
+| 4 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | 44,502 |
+| 5 | [Kong/kong](https://github.com/Kong/kong) | 43,932 |
+| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | 41,211 |
+| 7 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | 36,446 |
+| 8 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 31,408 |
+| 9 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26,129 |
+| 10 | [decolua/9router](https://github.com/decolua/9router) | 24,787 |
 
 ---
 
