@@ -57,6 +57,7 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 ## 🚪 AI Gateways & Unified APIs
 
 > Unified API gateways that provide a single interface to access multiple LLM providers with routing, failover, and load balancing.
+- [APIClaw](https://apiclaw.biz) - Flat-rate OpenAI-compatible AI API gateway (Claude, GPT, Kimi, Qwen, DeepSeek, GLM), $19–$129/mo, 50 free trial requests.
 
 | Repository | Stars | Language | Description |
 |-----------|-------|----------|-------------|
