@@ -201,6 +201,7 @@ This list covers the full spectrum: from smart routers that choose the optimal m
 | [**proinsight-io/crewmeld**](https://github.com/proinsight-io/crewmeld) | 1,121 | `TypeScript` | CrewMeld — Enterprise AI Digital Workforce Platform. Manage AI employees like real team members. Visual SOP orchestra... |
 | [**DemonDamon/AgenticX**](https://github.com/DemonDamon/AgenticX) | 1,087 | `Python` | AgenticX is a unified, production-ready multi-agent platform — Python SDK + CLI (agx) + Studio server + Machi desktop... |
 | [**Zyrexnn/Cybermes**](https://github.com/Zyrexnn/Cybermes) | 1,027 | `Python` | Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasonin... |
+| [**No Stairs Please MCP**](https://nostairsplease.com/mcp) | n/a | `MCP` | Hosted MCP server for searching under-400-capacity live music venues, booking contacts, and tour routes. |
 
 ---
 
